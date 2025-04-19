@@ -1,0 +1,5 @@
+# Don't upload sensitive files or big folders
+.env
+node_modules/
+.DS_Store
+*.log
